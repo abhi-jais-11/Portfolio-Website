@@ -41,8 +41,10 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
 2. **Navigate to the project directory**
+    ```bash
    cd portfolio-website
-3. **Open the project**
+4. **Open the project**
+   ```bash
    Open the index.html file in your preferred browser
 ---
 ## 🙏 Acknowledgments
