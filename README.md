@@ -48,12 +48,12 @@ To run this project locally, follow these steps:
    Open the index.html file in your preferred browser
 ---
 ## 🙏 Acknowledgments
-**Bootstrap:** For the amazing framework that made responsive design a breeze.
-**Font Awesome:** For the beautiful icons that added that extra flair.
-**Animate:** For the scroll animations that brought the site to life.
+- **Bootstrap:** For the amazing framework that made responsive design a breeze.
+- **Font Awesome:** For the beautiful icons that added that extra flair.
+- **Animate:** For the scroll animations that brought the site to life.
 
 ---
 
 ## 📧 Contact Me
-**Email:** abhijais0110@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/jais-abhi/
+- **Email:** abhijais0110@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/jais-abhi/
