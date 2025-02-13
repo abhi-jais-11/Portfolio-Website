@@ -183,7 +183,11 @@ p {
     letter-spacing: 1px;
 }
 
-
+big{
+    margin-bottom: 10px !important;
+    display: inline-block;
+    font-weight: bold;
+}
 
 /* 
     -----------------------------------------
@@ -1075,14 +1079,30 @@ footer{
     .about_content_wrappar{
         margin-top: 50px !important;
     }
+    .work_content,.service_content{
+        padding-right: 15px !important;
+        text-align: start;
+    }
 }
 
 @media screen and (max-width: 450px) {
+    h1{
+        font-size: var(--font-size-lg) !important;
+    }
+    .about_content p, span , p{
+        width: 100% !important;
+        text-align:start !important;
+        font-size: var(--font-size-sm) !important;
+
+    }
     .nav_links{
         width: 60% !important;
     }
     .about_content_wrappar{
         margin-top: 40px !important;
+    }
+    .about_wrappar{
+        padding: 60px  0px !important;
     }
     .contact-wrappar{
         padding:30px 10px  !important;
@@ -1090,5 +1110,14 @@ footer{
     .contacts{
         width: 98% !important;
     }
-
+    .idea_content{
+        text-align: start;
+    }
+    footer{
+        text-align: center;
+        
+    }
+    .logo_wrappar{
+        justify-content: center !important;
+    }
 }
